@@ -1,6 +1,6 @@
 # 0x16. C - Simple Shell
  **By Spencer Cheng, featuring Julien Barbier**
- Project to be done in teams of 2 people (your team: Godswill Kalu, Vatalis Ibeh)
+ Project to be done in teams of 2 people (your team:  **[stevo-nene](https://github.com/stephen-nene)**, **[Ayomid18](https://github.com/Ayomid18)** )
 
  ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
  ## Technologies Used
