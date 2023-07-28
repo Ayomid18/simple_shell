@@ -13,13 +13,13 @@ int is_interactive(info_t *info)
 }
 
 /**
- * is_delimiter - Check if a character is a delimiter
+ *  is_delim - Check if a character is a delimiter
  * @c: The character to check
  * @delimiter: The delimiter string
  *
  * Return: 1 if the character is a delimiter, 0 otherwise
  */
- 
+
 int is_delim(char c, char *delimiter)
 {
 	while (*delimiter)
