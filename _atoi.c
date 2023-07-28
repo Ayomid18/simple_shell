@@ -20,7 +20,7 @@ int is_interactive(info_t *info)
  * Return: 1 if the character is a delimiter, 0 otherwise
  */
  
-int is_delimiter(char c, char *delimiter)
+int is_delim(char c, char *delimiter)
 {
 	while (*delimiter)
 		if (*delimiter++ == c)
