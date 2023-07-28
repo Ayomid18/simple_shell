@@ -46,8 +46,12 @@ Use system calls only when you need to (why?)
 *There should be one project repository per group. If you and your partner have a repository with the same name in both your accounts, you risk a 0% score. Add your partner as a collaborator. *
 
 
-## Contributor
+## Contributors
 
 ## [![BuiltBy](https://img.shields.io/badge/Built-By-GE7A10?style=flat-square&logo=BuzzFeed&logoColor=white)](https://github.com/stephen-nene)
 - **[stevo-nene](https://github.com/stephen-nene)**
 - **[Ayomid18](https://github.com/Ayomid18)**
+
+## Copyright
+
+- **Ayomid-x-Nene** **&copy; 2023**
